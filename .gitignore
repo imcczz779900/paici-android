@@ -1,0 +1,49 @@
+# ── 构建产物 ──────────────────────────────────────────────────────────────────
+/build
+app/build
+**/build/
+
+# ── Gradle ───────────────────────────────────────────────────────────────────
+.gradle
+gradle/wrapper/gradle-wrapper.jar   # 保留 .properties，忽略二进制 jar
+*.iml
+
+# ── Android Studio / IntelliJ ─────────────────────────────────────────────────
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/deploymentTargetSelector.xml
+/.idea/deviceManager.xml
+/.idea/appInsightsSettings.xml
+/.idea/AndroidProjectSystem.xml
+
+# ── 本地配置（含 SDK 路径，每台机器不同） ────────────────────────────────────
+local.properties
+
+# ── Kotlin 编译器缓存 ─────────────────────────────────────────────────────────
+.kotlin/
+
+# ── Claude Code 会话数据 ──────────────────────────────────────────────────────
+.claude/
+
+# ── 签名文件（绝对不能提交） ──────────────────────────────────────────────────
+*.jks
+*.keystore
+
+# ── APK / AAB 产物 ────────────────────────────────────────────────────────────
+*.apk
+*.aab
+
+# ── Native 构建 ───────────────────────────────────────────────────────────────
+.externalNativeBuild
+.cxx
+
+# ── 系统文件 ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Profiling ─────────────────────────────────────────────────────────────────
+/captures
