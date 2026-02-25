@@ -19,13 +19,13 @@
 
 ## 截图
 
-
+<p align="center">
 <img width="1080" height="2400" alt="Screenshot_20260226_013045" src="https://github.com/user-attachments/assets/c60acbef-d133-40c5-b029-8d0405676f95" />
 
 <img width="1080" height="2400" alt="Screenshot_20260226_013218" src="https://github.com/user-attachments/assets/f36bcfa5-08ad-4436-993d-ef0b6b3f3675" />
 
 <img width="1080" height="2400" alt="Screenshot_20260226_013229" src="https://github.com/user-attachments/assets/eb3d27be-962f-44ce-93cc-bd1b8cad9f6c" />
-
+</p>
 ---
 ## 技术栈
 
