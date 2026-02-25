@@ -19,7 +19,8 @@
 
 ## 截图
 
-> *(真机测试截图后可补充到此处)*
+<img width="1080" height="2400" alt="Screenshot_20260226_013045" src="https://github.com/user-attachments/assets/5e4c1ae7-ce1b-4009-a54b-ca02c798c7ee" />
+
 
 ---
 
